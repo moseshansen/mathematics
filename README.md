@@ -5,5 +5,6 @@ This is a collection of important mathematical topics and theorems relating to m
 Currently, the following topics are included in this repo:
 1. Algorithm Complexity
 2. The Gamma Function and Stirling's Approximation
+3. Finite vs. Continuous Calculus
 
 ...and many more to come. 
